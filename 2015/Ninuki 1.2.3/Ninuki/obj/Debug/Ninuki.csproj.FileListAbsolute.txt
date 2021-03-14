@@ -1,0 +1,115 @@
+H:\Dokumenty\PGV\Projects\Ninuki\Ninuki\bin\Debug\Ninuki.exe.config
+H:\Dokumenty\PRO\Rocnikova Prace - (C#)\Ninuki\Ninuki\bin\Debug\Ninuki.exe.config
+H:\Dokumenty\PRO\Rocnikova Prace - (C#)\Ninuki\Ninuki\bin\Debug\Ninuki.exe
+H:\Dokumenty\PRO\Rocnikova Prace - (C#)\Ninuki\Ninuki\bin\Debug\Ninuki.pdb
+H:\Dokumenty\PRO\Rocnikova Prace - (C#)\Ninuki\Ninuki\obj\Debug\Ninuki.csprojResolveAssemblyReference.cache
+H:\Dokumenty\PRO\Rocnikova Prace - (C#)\Ninuki\Ninuki\obj\Debug\Ninuki.Form1.resources
+H:\Dokumenty\PRO\Rocnikova Prace - (C#)\Ninuki\Ninuki\obj\Debug\Ninuki.Properties.Resources.resources
+H:\Dokumenty\PRO\Rocnikova Prace - (C#)\Ninuki\Ninuki\obj\Debug\Ninuki.csproj.GenerateResource.Cache
+H:\Dokumenty\PRO\Rocnikova Prace - (C#)\Ninuki\Ninuki\obj\Debug\Ninuki.exe
+H:\Dokumenty\PRO\Rocnikova Prace - (C#)\Ninuki\Ninuki\obj\Debug\Ninuki.pdb
+H:\Dokumenty\_SPŠ\PRO\Rocnikova Prace - (C#)\Ninuki\Ninuki\bin\Debug\Ninuki.exe.config
+H:\Dokumenty\_SPŠ\PRO\Rocnikova Prace - (C#)\Ninuki\Ninuki\obj\Debug\Ninuki.exe
+H:\Dokumenty\_SPŠ\PRO\Rocnikova Prace - (C#)\Ninuki\Ninuki\obj\Debug\Ninuki.pdb
+H:\Dokumenty\_SPŠ\PRO\Rocnikova Prace - (C#)\Ninuki\Ninuki\bin\Debug\Ninuki.exe
+H:\Dokumenty\_SPŠ\PRO\Rocnikova Prace - (C#)\Ninuki\Ninuki\bin\Debug\Ninuki.pdb
+H:\Dokumenty\_SPŠ\PRO\Rocnikova Prace - (C#)\Ninuki\Ninuki\obj\Debug\Ninuki.csprojResolveAssemblyReference.cache
+H:\Dokumenty\_SPŠ\PRO\Rocnikova Prace - (C#)\Ninuki\Ninuki\obj\Debug\Ninuki.Form1.resources
+H:\Dokumenty\_SPŠ\PRO\Rocnikova Prace - (C#)\Ninuki\Ninuki\obj\Debug\Ninuki.Properties.Resources.resources
+H:\Dokumenty\_SPŠ\PRO\Rocnikova Prace - (C#)\Ninuki\Ninuki\obj\Debug\Ninuki.csproj.GenerateResource.Cache
+C:\Users\jankja\Documents\_SPŠ\PRO\Ročníková Práce (C#)\Ninuki\Ninuki\bin\Debug\Ninuki.exe.config
+C:\Users\jankja\Documents\_SPŠ\PRO\Ročníková Práce (C#)\Ninuki\Ninuki\obj\Debug\Ninuki.exe
+C:\Users\jankja\Documents\_SPŠ\PRO\Ročníková Práce (C#)\Ninuki\Ninuki\obj\Debug\Ninuki.pdb
+C:\Users\jankja\Desktop\C# new projects\Ninuki 0.4\Ninuki\bin\Debug\Ninuki.exe.config
+C:\Users\jankja\Desktop\C# new projects\Ninuki 0.4\Ninuki\obj\Debug\Ninuki.pdb
+C:\Users\jankja\Desktop\C# new projects\Ninuki 0.4\Ninuki\obj\Debug\Ninuki.csprojResolveAssemblyReference.cache
+C:\Users\jankja\Desktop\C# new projects\Ninuki 0.4\Ninuki\obj\Debug\Ninuki.Form1.resources
+C:\Users\jankja\Desktop\C# new projects\Ninuki 0.4\Ninuki\obj\Debug\Ninuki.Properties.Resources.resources
+C:\Users\jankja\Desktop\C# new projects\Ninuki 0.4\Ninuki\obj\Debug\Ninuki.csproj.GenerateResource.Cache
+C:\Users\jankja\Desktop\C# new projects\Ninuki 0.4\Ninuki\bin\Debug\Ninuki.exe
+C:\Users\jankja\Desktop\C# new projects\Ninuki 0.4\Ninuki\bin\Debug\Ninuki.pdb
+C:\Users\jankja\Desktop\C# new projects\Ninuki 0.4\Ninuki\obj\Debug\Ninuki.exe
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 0.4\Ninuki\bin\Debug\Ninuki.exe.config
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 0.4\Ninuki\obj\Debug\Ninuki.exe
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 0.4\Ninuki\obj\Debug\Ninuki.pdb
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 0.4\Ninuki\obj\Debug\Ninuki.csprojResolveAssemblyReference.cache
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 0.4\Ninuki\obj\Debug\Ninuki.Form1.resources
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 0.4\Ninuki\obj\Debug\Ninuki.Properties.Resources.resources
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 0.4\Ninuki\obj\Debug\Ninuki.csproj.GenerateResource.Cache
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 0.4\Ninuki\obj\Debug\Ninuki.Ninuki.resources
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 0.5\Ninuki\bin\Debug\Ninuki.exe.config
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 0.5\Ninuki\obj\Debug\Ninuki.exe
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 0.5\Ninuki\obj\Debug\Ninuki.pdb
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 0.5\Ninuki\bin\Debug\Ninuki.exe
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 0.5\Ninuki\bin\Debug\Ninuki.pdb
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 0.5\Ninuki\obj\Debug\Ninuki.csprojResolveAssemblyReference.cache
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 0.5\Ninuki\obj\Debug\Ninuki.Form1.resources
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 0.5\Ninuki\obj\Debug\Ninuki.Properties.Resources.resources
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 0.5\Ninuki\obj\Debug\Ninuki.csproj.GenerateResource.Cache
+H:\Dokumenty\_SPŠ\PRO\rC# new projects\Ninuki 0.5\Ninuki\bin\Debug\Ninuki.exe.config
+H:\Dokumenty\_SPŠ\PRO\rC# new projects\Ninuki 0.5\Ninuki\obj\Debug\Ninuki.exe
+H:\Dokumenty\_SPŠ\PRO\rC# new projects\Ninuki 0.5\Ninuki\obj\Debug\Ninuki.csprojResolveAssemblyReference.cache
+H:\Dokumenty\_SPŠ\PRO\rC# new projects\Ninuki 0.5\Ninuki\obj\Debug\Ninuki.Form1.resources
+H:\Dokumenty\_SPŠ\PRO\rC# new projects\Ninuki 0.5\Ninuki\obj\Debug\Ninuki.Properties.Resources.resources
+H:\Dokumenty\_SPŠ\PRO\rC# new projects\Ninuki 0.5\Ninuki\obj\Debug\Ninuki.csproj.GenerateResource.Cache
+H:\Dokumenty\_SPŠ\PRO\rC# new projects\Ninuki 1.0\Ninuki\bin\Debug\Ninuki.exe.config
+H:\Dokumenty\_SPŠ\PRO\rC# new projects\Ninuki 1.0\Ninuki\obj\Debug\Ninuki.exe
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.0\Ninuki\bin\Debug\Ninuki.exe.config
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.0\Ninuki\obj\Debug\Ninuki.exe
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.0\Ninuki\obj\Debug\Ninuki.csprojResolveAssemblyReference.cache
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.0\Ninuki\obj\Debug\Ninuki.Form1.resources
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.0\Ninuki\obj\Debug\Ninuki.Properties.Resources.resources
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.0\Ninuki\obj\Debug\Ninuki.csproj.GenerateResource.Cache
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.0\Ninuki\bin\Debug\Ninuki.exe
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.0\Ninuki\bin\Debug\Ninuki.pdb
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.0\Ninuki\obj\Debug\Ninuki.pdb
+C:\Users\Kubaf\Desktop\Ročníková Práce (C#)\C# new projects\Ninuki 1.0\Ninuki\bin\Debug\Ninuki.exe.config
+C:\Users\Kubaf\Desktop\Ročníková Práce (C#)\C# new projects\Ninuki 1.0\Ninuki\obj\Debug\Ninuki.exe
+C:\Users\Kubaf\Desktop\Ročníková Práce (C#)\C# new projects\Ninuki 1.0\Ninuki\obj\Debug\Ninuki.pdb
+C:\Users\Kubaf\Desktop\Ostatni\Ročníková Práce (C#)\C# new projects\Ninuki 1.0\Ninuki\bin\Debug\Ninuki.exe.config
+C:\Users\Kubaf\Desktop\Ostatni\Ročníková Práce (C#)\C# new projects\Ninuki 1.0\Ninuki\obj\Debug\Ninuki.exe
+C:\Users\Kubaf\Desktop\Ostatni\Ročníková Práce (C#)\C# new projects\Ninuki 1.0\Ninuki\obj\Debug\Ninuki.pdb
+C:\Users\Kubaf\Desktop\Ostatni\Ročníková Práce (C#)\C# new projects\Ninuki 1.0\Ninuki\bin\Debug\Ninuki.exe
+C:\Users\Kubaf\Desktop\Ostatni\Ročníková Práce (C#)\C# new projects\Ninuki 1.0\Ninuki\bin\Debug\Ninuki.pdb
+C:\Users\Kubaf\Desktop\Ostatni\Ročníková Práce (C#)\C# new projects\Ninuki 1.0\Ninuki\obj\Debug\Ninuki.csprojResolveAssemblyReference.cache
+C:\Users\Kubaf\Desktop\Ostatni\Ročníková Práce (C#)\C# new projects\Ninuki 1.0\Ninuki\obj\Debug\Ninuki.Form1.resources
+C:\Users\Kubaf\Desktop\Ostatni\Ročníková Práce (C#)\C# new projects\Ninuki 1.0\Ninuki\obj\Debug\Ninuki.Properties.Resources.resources
+C:\Users\Kubaf\Desktop\Ostatni\Ročníková Práce (C#)\C# new projects\Ninuki 1.0\Ninuki\obj\Debug\Ninuki.csproj.GenerateResource.Cache
+E:\Ročníková Práce (C#)\C# new projects\Ninuki 1.0\Ninuki\bin\Debug\Ninuki.exe.config
+E:\Ročníková Práce (C#)\C# new projects\Ninuki 1.0\Ninuki\obj\Debug\Ninuki.exe
+E:\Ročníková Práce (C#)\C# new projects\Ninuki 1.0\Ninuki\obj\Debug\Ninuki.pdb
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.1\Ninuki\bin\Debug\Ninuki.exe.config
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.1\Ninuki\obj\Debug\Ninuki.exe
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.1\Ninuki\obj\Debug\Ninuki.pdb
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.1\Ninuki\obj\Debug\Ninuki.csprojResolveAssemblyReference.cache
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.1\Ninuki\obj\Debug\Ninuki.Form1.resources
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.1\Ninuki\obj\Debug\Ninuki.Properties.Resources.resources
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.1\Ninuki\obj\Debug\Ninuki.csproj.GenerateResource.Cache
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.1\Ninuki\bin\Debug\Ninuki.exe
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.1\Ninuki\bin\Debug\Ninuki.pdb
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.1\Ninuki\obj\Debug\Ninuki.Form2.resources
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.1\Ninuki\obj\Debug\Ninuki.ReallyKonec.resources
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.1\Ninuki\obj\Debug\Ninuki.Konec.resources
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2\Ninuki\bin\Debug\Ninuki.exe.config
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2\Ninuki\obj\Debug\Ninuki.exe
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2\Ninuki\obj\Debug\Ninuki.pdb
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2\Ninuki\bin\Debug\Ninuki.exe
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2\Ninuki\bin\Debug\Ninuki.pdb
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2\Ninuki\obj\Debug\Ninuki.csprojResolveAssemblyReference.cache
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2\Ninuki\obj\Debug\Ninuki.Form1.resources
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2\Ninuki\obj\Debug\Ninuki.Form2.resources
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2\Ninuki\obj\Debug\Ninuki.Konec.resources
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2\Ninuki\obj\Debug\Ninuki.Properties.Resources.resources
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2\Ninuki\obj\Debug\Ninuki.ReallyKonec.resources
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2\Ninuki\obj\Debug\Ninuki.csproj.GenerateResource.Cache
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2.1\Ninuki\bin\Debug\Ninuki.exe.config
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2.1\Ninuki\obj\Debug\Ninuki.exe
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2.1\Ninuki\obj\Debug\Ninuki.pdb
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2.1\Ninuki\bin\Debug\Ninuki.exe
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2.1\Ninuki\bin\Debug\Ninuki.pdb
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2.1\Ninuki\obj\Debug\Ninuki.Form1.resources
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2.1\Ninuki\obj\Debug\Ninuki.Form2.resources
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2.1\Ninuki\obj\Debug\Ninuki.Konec.resources
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2.1\Ninuki\obj\Debug\Ninuki.Properties.Resources.resources
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2.1\Ninuki\obj\Debug\Ninuki.ReallyKonec.resources
+C:\Users\Kubaf\Desktop\C# new projects\Ninuki 1.2.1\Ninuki\obj\Debug\Ninuki.csproj.GenerateResource.Cache
