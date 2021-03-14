@@ -1,4 +1,4 @@
 # old-projects
 some of my firsts projects
 
-Ukázka nějakých mých starších nebo prvních projektů.
+Ukázka nějakých mých hodně starších nebo prvních projektů.
