@@ -1,0 +1,9 @@
+d:\source\projects\_alternative\C#projects\_xgame\Sudoku\SudokuX\Sudoku\bin\Release\Sudoku.exe
+d:\source\projects\_alternative\C#projects\_xgame\Sudoku\SudokuX\Sudoku\bin\Release\Sudoku.pdb
+d:\source\projects\_alternative\C#projects\_xgame\Sudoku\SudokuX\Sudoku\obj\Release\Sudoku.csprojAssemblyReference.cache
+d:\source\projects\_alternative\C#projects\_xgame\Sudoku\SudokuX\Sudoku\obj\Release\Sudoku.Form1.resources
+d:\source\projects\_alternative\C#projects\_xgame\Sudoku\SudokuX\Sudoku\obj\Release\Sudoku.Properties.Resources.resources
+d:\source\projects\_alternative\C#projects\_xgame\Sudoku\SudokuX\Sudoku\obj\Release\Sudoku.csproj.GenerateResource.cache
+d:\source\projects\_alternative\C#projects\_xgame\Sudoku\SudokuX\Sudoku\obj\Release\Sudoku.csproj.CoreCompileInputs.cache
+d:\source\projects\_alternative\C#projects\_xgame\Sudoku\SudokuX\Sudoku\obj\Release\Sudoku.exe
+d:\source\projects\_alternative\C#projects\_xgame\Sudoku\SudokuX\Sudoku\obj\Release\Sudoku.pdb
